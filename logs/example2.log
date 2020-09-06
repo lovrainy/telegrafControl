@@ -1,0 +1,174 @@
+2019-11-30T13:28:48Z I! Starting Telegraf 
+2019-11-30T13:28:48Z I! Loaded inputs: disk
+2019-11-30T13:28:48Z I! Loaded aggregators: 
+2019-11-30T13:28:48Z I! Loaded processors: 
+2019-11-30T13:28:48Z I! Loaded outputs: kafka
+2019-11-30T13:28:48Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T13:28:48Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T13:30:01Z I! Starting Telegraf 
+2019-11-30T13:30:01Z I! Loaded inputs: disk
+2019-11-30T13:30:01Z I! Loaded aggregators: 
+2019-11-30T13:30:01Z I! Loaded processors: 
+2019-11-30T13:30:01Z I! Loaded outputs: kafka
+2019-11-30T13:30:01Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T13:30:01Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T13:30:49Z E! [agent] Failed to connect to [outputs.kafka], retrying in 15s, error was 'kafka: client has run out of available brokers to talk to (Is your cluster reachable?)'
+2019-11-30T13:32:02Z E! [agent] Failed to connect to [outputs.kafka], retrying in 15s, error was 'kafka: client has run out of available brokers to talk to (Is your cluster reachable?)'
+2019-11-30T13:33:05Z E! [telegraf] Error running agent: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019-11-30T13:34:18Z E! Unable to remove pidfile: remove /Users/dongxiaoyi/Go/src/agent/pids/example2.pid: no such file or directory
+2019-11-30T13:34:18Z E! [telegraf] Error running agent: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019-11-30T14:06:12Z I! Starting Telegraf 
+2019-11-30T14:06:12Z I! Loaded inputs: disk
+2019-11-30T14:06:12Z I! Loaded aggregators: 
+2019-11-30T14:06:12Z I! Loaded processors: 
+2019-11-30T14:06:12Z I! Loaded outputs: kafka
+2019-11-30T14:06:12Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:06:12Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:06:53Z I! Starting Telegraf 
+2019-11-30T14:06:53Z I! Loaded inputs: disk
+2019-11-30T14:06:53Z I! Loaded aggregators: 
+2019-11-30T14:06:53Z I! Loaded processors: 
+2019-11-30T14:06:53Z I! Loaded outputs: kafka
+2019-11-30T14:06:53Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:06:53Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:08:54Z E! [agent] Failed to connect to [outputs.kafka], retrying in 15s, error was 'kafka: client has run out of available brokers to talk to (Is your cluster reachable?)'
+2019-11-30T14:11:09Z E! [telegraf] Error running agent: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019-11-30T14:14:35Z I! Starting Telegraf 
+2019-11-30T14:14:35Z I! Loaded inputs: disk
+2019-11-30T14:14:35Z I! Loaded aggregators: 
+2019-11-30T14:14:35Z I! Loaded processors: 
+2019-11-30T14:14:35Z I! Loaded outputs: kafka
+2019-11-30T14:14:35Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:14:35Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:16:36Z E! [agent] Failed to connect to [outputs.kafka], retrying in 15s, error was 'kafka: client has run out of available brokers to talk to (Is your cluster reachable?)'
+2019-11-30T14:18:51Z E! [telegraf] Error running agent: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019-11-30T14:31:58Z I! Starting Telegraf 
+2019-11-30T14:31:58Z I! Loaded inputs: disk
+2019-11-30T14:31:58Z I! Loaded aggregators: 
+2019-11-30T14:31:58Z I! Loaded processors: 
+2019-11-30T14:31:58Z I! Loaded outputs: kafka
+2019-11-30T14:31:58Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:31:58Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:35:15Z I! Starting Telegraf 
+2019-11-30T14:35:15Z I! Loaded inputs: disk
+2019-11-30T14:35:15Z I! Loaded aggregators: 
+2019-11-30T14:35:15Z I! Loaded processors: 
+2019-11-30T14:35:15Z I! Loaded outputs: kafka
+2019-11-30T14:35:15Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:35:15Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:39:38Z I! Starting Telegraf 
+2019-11-30T14:39:38Z I! Loaded inputs: disk
+2019-11-30T14:39:38Z I! Loaded aggregators: 
+2019-11-30T14:39:38Z I! Loaded processors: 
+2019-11-30T14:39:38Z I! Loaded outputs: kafka
+2019-11-30T14:39:38Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:39:38Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:43:35Z I! Starting Telegraf 
+2019-11-30T14:43:35Z I! Loaded inputs: disk
+2019-11-30T14:43:35Z I! Loaded aggregators: 
+2019-11-30T14:43:35Z I! Loaded processors: 
+2019-11-30T14:43:35Z I! Loaded outputs: kafka
+2019-11-30T14:43:35Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:43:35Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:43:46Z I! Starting Telegraf 
+2019-11-30T14:43:46Z I! Loaded inputs: disk
+2019-11-30T14:43:46Z I! Loaded aggregators: 
+2019-11-30T14:43:46Z I! Loaded processors: 
+2019-11-30T14:43:46Z I! Loaded outputs: kafka
+2019-11-30T14:43:46Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:43:46Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:50:29Z I! Starting Telegraf 
+2019-11-30T14:50:29Z I! Loaded inputs: disk
+2019-11-30T14:50:29Z I! Loaded aggregators: 
+2019-11-30T14:50:29Z I! Loaded processors: 
+2019-11-30T14:50:29Z I! Loaded outputs: kafka
+2019-11-30T14:50:29Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:50:29Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:53:57Z I! Starting Telegraf 
+2019-11-30T14:53:57Z I! Loaded inputs: disk
+2019-11-30T14:53:57Z I! Loaded aggregators: 
+2019-11-30T14:53:57Z I! Loaded processors: 
+2019-11-30T14:53:57Z I! Loaded outputs: kafka
+2019-11-30T14:53:57Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:53:57Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:54:31Z I! Starting Telegraf 
+2019-11-30T14:54:31Z I! Loaded inputs: disk
+2019-11-30T14:54:31Z I! Loaded aggregators: 
+2019-11-30T14:54:31Z I! Loaded processors: 
+2019-11-30T14:54:31Z I! Loaded outputs: kafka
+2019-11-30T14:54:31Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:54:31Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:55:41Z I! Starting Telegraf 
+2019-11-30T14:55:41Z I! Loaded inputs: disk
+2019-11-30T14:55:41Z I! Loaded aggregators: 
+2019-11-30T14:55:41Z I! Loaded processors: 
+2019-11-30T14:55:41Z I! Loaded outputs: kafka
+2019-11-30T14:55:41Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-11-30T14:55:41Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-11-30T14:57:42Z E! [agent] Failed to connect to [outputs.kafka], retrying in 15s, error was 'kafka: client has run out of available brokers to talk to (Is your cluster reachable?)'
+2019-11-30T14:59:58Z E! [telegraf] Error running agent: kafka: client has run out of available brokers to talk to (Is your cluster reachable?)
+2019-12-02T01:12:34Z I! Starting Telegraf 
+2019-12-02T01:12:34Z I! Loaded inputs: disk
+2019-12-02T01:12:34Z I! Loaded aggregators: 
+2019-12-02T01:12:34Z I! Loaded processors: 
+2019-12-02T01:12:34Z I! Loaded outputs: kafka
+2019-12-02T01:12:34Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:12:34Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:12:48Z I! Starting Telegraf 
+2019-12-02T01:12:48Z I! Loaded inputs: disk
+2019-12-02T01:12:48Z I! Loaded aggregators: 
+2019-12-02T01:12:48Z I! Loaded processors: 
+2019-12-02T01:12:48Z I! Loaded outputs: kafka
+2019-12-02T01:12:48Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:12:48Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:13:05Z I! Starting Telegraf 
+2019-12-02T01:13:05Z I! Loaded inputs: disk
+2019-12-02T01:13:05Z I! Loaded aggregators: 
+2019-12-02T01:13:05Z I! Loaded processors: 
+2019-12-02T01:13:05Z I! Loaded outputs: kafka
+2019-12-02T01:13:05Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:13:05Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:13:42Z I! Starting Telegraf 
+2019-12-02T01:13:42Z I! Loaded inputs: disk
+2019-12-02T01:13:42Z I! Loaded aggregators: 
+2019-12-02T01:13:42Z I! Loaded processors: 
+2019-12-02T01:13:42Z I! Loaded outputs: kafka
+2019-12-02T01:13:42Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:13:42Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:13:52Z I! Starting Telegraf 
+2019-12-02T01:13:52Z I! Loaded inputs: disk
+2019-12-02T01:13:52Z I! Loaded aggregators: 
+2019-12-02T01:13:52Z I! Loaded processors: 
+2019-12-02T01:13:52Z I! Loaded outputs: kafka
+2019-12-02T01:13:52Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:13:52Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:19:44Z I! Starting Telegraf 
+2019-12-02T01:19:44Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:20:10Z I! Starting Telegraf 
+2019-12-02T01:20:10Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:20:56Z I! Starting Telegraf 
+2019-12-02T01:20:56Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:21:33Z I! Starting Telegraf 
+2019-12-02T01:21:33Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:22:03Z I! Starting Telegraf 
+2019-12-02T01:22:03Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:22:18Z I! Starting Telegraf 
+2019-12-02T01:22:18Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:23:26Z I! Starting Telegraf 
+2019-12-02T01:23:26Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/monitor.example.2.conf: no such file or directory
+2019-12-02T01:24:53Z I! Starting Telegraf 
+2019-12-02T01:24:53Z I! Loaded inputs: disk
+2019-12-02T01:24:53Z I! Loaded aggregators: 
+2019-12-02T01:24:53Z I! Loaded processors: 
+2019-12-02T01:24:53Z I! Loaded outputs: kafka
+2019-12-02T01:24:53Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:24:53Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:29:12Z I! Starting Telegraf 
+2019-12-02T01:29:12Z I! Loaded inputs: disk
+2019-12-02T01:29:12Z I! Loaded aggregators: 
+2019-12-02T01:29:12Z I! Loaded processors: 
+2019-12-02T01:29:12Z I! Loaded outputs: kafka
+2019-12-02T01:29:12Z I! Tags enabled: host=dongxiaoyideMacBook-Pro.local
+2019-12-02T01:29:12Z I! [agent] Config: Interval:1s, Quiet:false, Hostname:"dongxiaoyideMacBook-Pro.local", Flush Interval:2s
+2019-12-02T01:36:13Z I! Starting Telegraf 
+2019-12-02T01:36:13Z E! [telegraf] Error running agent: Error loading /Users/dongxiaoyi/Go/src/agent/configsmonitor.example.2.conf, open /Users/dongxiaoyi/Go/src/agent/configsmonitor.example.2.conf: no such file or directory
