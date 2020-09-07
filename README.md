@@ -1,5 +1,6 @@
 # 监控采集端Agent管理说明
-#telegraf #agent #支付监控
+此项目针对telegraf进行指令集管理，通过命令行方式管理telegraf服务；
+主要功能包含启动、关闭、重启以及查看当前telegraf的组件状态
 
 ## 一、项目结构
 ```shell
